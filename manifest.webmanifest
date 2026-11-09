@@ -1,0 +1,11 @@
+{
+  "name": "not today. — Küçük dostun",
+  "short_name": "not today.",
+  "description": "Küçük dostunla sigarasız yolculuğun.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f4ed",
+  "theme_color": "#f8f4ed",
+  "icons": [{ "src": "/assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

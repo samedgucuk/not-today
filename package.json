@@ -1,0 +1,11 @@
+{
+  "name": "not-today",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A companion-first quit journey app with Supabase OTP, persistent world and premium moments.",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "check": "node --check src/app.js && node --check src/api.js && node --check src/catalog.js && node --check src/audio.js && node --check api/config.js && node scripts/sanity.mjs"
+  }
+}
